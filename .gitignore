@@ -1,0 +1,8 @@
+#ignore obj folder that contains the .o
+obj/
+
+#ignore the executable file
+snake
+
+#ignore the vscode settings
+.vscode
